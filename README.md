@@ -33,11 +33,11 @@
 </p>
 
 <p align="center">
-<a href="https://markdhelvillarama.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://www.instagram.com/msongoku_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mkoy29/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:markdhel.villarama29@gmail.com"><img src="https://img.shields.io/badge/Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://markdhelweb.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> <a href="https://www.instagram.com/msongoku_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mkoy29/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:markdhel.villarama1029@gmail.com"><img src="https://img.shields.io/badge/Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      
 <p align="center">
-Check my <a href="https://github.com/mdwebb?tab=repositories"> personal projects 💻</a>
+Check my <a href="https://github.com/markdhelweb?tab=repositories"> personal projects 💻</a>
 </p>
 
 <!--Trap--:)-->
